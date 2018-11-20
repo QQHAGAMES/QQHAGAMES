@@ -1,0 +1,258 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="qqhagames.com" resolutions="1x" timestamp="1542739174126">
+  <folder name="css">
+    <file name="site_global.css" crc="4258859330"/>
+    <file name="master_page-master.css" crc="4257113534" ref="contact:services:gallery:about:без-имени-7:без-имени-6"/>
+    <file name="master_home-master.css" crc="4003675396" ref="index"/>
+    <file name="contact.css" crc="282499948" ref="contact"/>
+    <file name="iefonts_contact.css" crc="4203901670" ref="contact"/>
+    <file name="index.css" crc="534351013" ref="index"/>
+    <file name="iefonts_index.css" crc="314659699" ref="index"/>
+    <file name="services.css" crc="3986008003" ref="services"/>
+    <file name="iefonts_services.css" crc="196576394" ref="services"/>
+    <file name="gallery.css" crc="3928158806" ref="gallery"/>
+    <file name="iefonts_gallery.css" crc="4155977153" ref="gallery"/>
+    <file name="about.css" crc="4268597463" ref="about"/>
+    <file name="iefonts_about.css" crc="4203901670" ref="about"/>
+    <file name="___-_____-7.css" crc="399960115" ref="без-имени-7"/>
+    <file name="iefonts____-_____-7.css" crc="4203901670" ref="без-имени-7"/>
+    <file name="___-_____-6.css" crc="3478447" ref="без-имени-6"/>
+    <file name="iefonts____-_____-6.css" crc="4203901670" ref="без-имени-6"/>
+  </folder>
+  <folder name="assets">
+    <file name="iphone_icon.png" crc="4205443473" seo="true" mt="1381649652000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:about:gallery:services:contact:без-имени-6:без-имени-7"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index:about:gallery:services:contact:без-имени-6:без-имени-7"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index:about:gallery:services:contact:без-имени-6:без-имени-7"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:index:about:gallery:services:contact:без-имени-6:без-имени-7"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index:about:gallery:services:contact:без-имени-6:без-имени-7"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index:about:gallery:services:contact:без-имени-6:без-имени-7"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:about:services"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:about:gallery:services:contact:без-имени-6:без-имени-7"/>
+    <file name="webpro.js" crc="4059564322" ref="index:about:gallery:services:contact:без-имени-6:без-имени-7"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u1080.php" crc="465408873" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:gallery:services:contact:без-имени-6:без-имени-7"/>
+    <file name="form-u1352.php" crc="489571278" ref="about:services"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="gallery"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="gallery"/>
+    <file name="touchswipe.js" crc="4075097462" ref="gallery"/>
+  </folder>
+  <folder name="images">
+    <file name="home-master-favicon.ico" crc="4231599711" ref="phone>index:index"/>
+    <file name="top-colour.png" crc="415834566" ref="phone>index:index:about:services">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cake-crop-u3536.png" crc="228475005" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cake-crop-u3546.png" crc="71647215" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="3882503347" seo="true" ref="phone>index:index:about:gallery:services:contact:без-имени-6:без-имени-7">
+      <caption webpage="без-имени-7" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="без-имени-6" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="twitter.png" crc="3866275046" seo="true" ref="phone>index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="facebook.png" crc="3986950775" seo="true" ref="phone>index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pinterest.png" crc="408438237" seo="true" ref="phone>index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="location.png" crc="3761000781" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="staff.png" crc="4007744634" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="time.png" crc="211687847" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="call.png" crc="3821609672" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="info.png" crc="3916605042" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pink-stripes.png" crc="4027467097" ref="phone>index:index:about:gallery:services:contact:без-имени-6:без-имени-7">
+      <caption webpage="без-имени-7" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="без-имени-6" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="cake.png" crc="257286662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="texture1.png" crc="3966533811" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="arrow-2.png" crc="219086628" ref="index:about:gallery:services:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="page-master-favicon.ico" crc="4231599711" ref="about:services"/>
+    <file name="cake1-u1203-fr.jpg" crc="3965254606" ref="about"/>
+    <file name="staff4.jpg" crc="41124271" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="staff2.jpg" crc="4182926588" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="staff5.jpg" crc="9008041" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="staff1.jpg" crc="33134201" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="large-shadow.png" crc="42251744" seo="true" ref="gallery:contact">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="florish2.png" crc="3889117084" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="florish1.png" crc="288083055" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake1-crop-u2542.jpg" crc="4172296104" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="gallery"/>
+    <file name="cake01.jpg" crc="3939747384" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake02.jpg" crc="4288239541" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake03.jpg" crc="3916588395" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake04-crop-u2643.jpg" crc="338701658" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake05-crop-u2652.jpg" crc="4008835201" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake06.jpg" crc="420109690" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake07-crop-u2670.jpg" crc="4045233379" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake3.jpg" crc="3863138959" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake4.jpg" crc="519685027" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake2-crop-u2572.jpg" crc="4140837659" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake1-crop-u2545.jpg" crc="3791734565" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake01121x93.jpg" crc="143485095" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake02134x90.jpg" crc="4034093216" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake03134x90.jpg" crc="3971979603" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake04-crop-u2646.jpg" crc="131386285" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake05-crop-u2655.jpg" crc="273192857" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake06134x90.jpg" crc="3794566324" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake07-crop-u2673.jpg" crc="4184916238" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake3134x90.jpg" crc="3863751049" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake4134x90.jpg" crc="131719919" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cake2-crop-u2575.jpg" crc="394602947" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="arrow-2-left.png" crc="4045721964" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="gallery"/>
+    <file name="line.png" crc="504205112" ref="gallery:contact">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="cake1-u3256-fr.jpg" crc="3977735570" ref="services"/>
+    <file name="cake09.jpg" crc="465245030" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="cake130x177.png" crc="4019976007" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_home-master.css" crc="3942897089" ref="phone>index"/>
+      <file name="index.css" crc="68298196" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3786303496" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4136340697" seo="true" mt="1542732932609" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="371101407" seo="true" mt="1542739158392" redirect="true"/>
+  <file name="about.html" crc="4026637857" seo="true" mt="1542732795122" redirect="true"/>
+  <file name="gallery.html" crc="491247794" seo="true" mt="1542732635848" redirect="true"/>
+  <file name="services.html" crc="155263926" seo="true" mt="1542732932632" redirect="true"/>
+  <file name="contact.html" crc="3923373262" seo="true" mt="1542732635848" redirect="true"/>
+  <file name="без-имени-6.html" crc="3912866786" seo="true" mt="1542732635848" redirect="true"/>
+  <file name="без-имени-7.html" crc="118042540" seo="true" mt="1542732635848" redirect="true"/>
+</manifest>
